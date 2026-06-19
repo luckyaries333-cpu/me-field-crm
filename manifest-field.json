@@ -1,7 +1,7 @@
 {
   "name": "Mahendra Estates CRM",
   "short_name": "ME CRM",
-  "description": "Field CRM — Agent Login & Lead Tracker",
+  "description": "Field CRM — Agent Login, Leads & Properties",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f1a",
